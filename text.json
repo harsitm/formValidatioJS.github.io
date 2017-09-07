@@ -1,73 +1,72 @@
-[
-{
-	ProductId: '1',
-	Name: 'DELL Laptop',
-	Price: '23000',
-	MfgDate : '2013/01/01',
-	Access: ['Mouse','Keyboard','Router','Charger']
-},
-{
-	ProductId: '2',
-	Name: 'SONY Mobile',
-	Price: '13000',
-	MfgDate : '2015/12/24',
-	Access:['Cover','OTG cable','Screen Guard','Bluetooth Speaker']
-},
-{
-	ProductId: '3',
-	Name: 'Printer',
-	Price: '5500',
-	MfgDate : '2017/04/02',
-	Access: ['Catridge']
-},
-{
-	ProductId: '4',
-	Name: 'Air Conditioner',
-	Price: '43000',
-	MfgDate : '2017/05/21',
-	Access: ['Outdoor_Unit','Remote','Stabilizer']
-},
-{
-	ProductId: '5',
-	Name: 'Creative Speakers',
-	Price: '5000',
-	MfgDate : '2015/02/12',
-	Access:['Adapter']
-},
-{
-	ProductId: '6',
-	Name: 'DELL Server',
-	Price: '562000',
-	MfgDate : '2014/05/21',
-	Access:[]
-},
-{
-	ProductId: '7',
-	Name: 'Wireless Headphone',
-	Price: '2300',
-	MfgDate : '2014/02/06',
-	Access:[]
-},
-{
-	ProductId: '8',
-	Name: 'Wireless Mouse',
-	Price: '1300',
-	MfgDate : '2015/01/09',
-	Access:[]
-},
-{
-	ProductId: '9',
-	Name: 'Wireless Headphone',
-	Price: '2300',
-	MfgDate : '2014/02/06',
-	Access:[]
-},
-{
-	ProductId: '10',
-	Name: 'Digital Camera',
-	Price: '25000',
-	MfgDate : '2016/07/03',
-	Access:['Lens','Bag']
-}
+[{
+		"ProductId": "1",
+		"Name": "DELL Laptop",
+		"Price": "23000",
+		"MfgDate": "2013/01/01",
+		"Access": ["Mouse", "Keyboard", "Router", "Charger"]
+	},
+	{
+		"ProductId": "2",
+		"Name": "SONY Mobile",
+		"Price": "13000",
+		"MfgDate": "2015/12/24",
+		"Access": ["Cover", "OTG cable", "Screen Guard", "Bluetooth Speaker"]
+	},
+	{
+		"ProductId": "3",
+		"Name": "Printer",
+		"Price": "5500",
+		"MfgDate": "2017/04/02",
+		"Access": ["Catridge"]
+	},
+	{
+		"ProductId": "4",
+		"Name": "Air Conditioner",
+		"Price": "43000",
+		"MfgDate": "2017/05/21",
+		"Access": ["Outdoor_Unit", "Remote", "Stabilizer"]
+	},
+	{
+		"ProductId": "5",
+		"Name": "Creative Speakers",
+		"Price": "5000",
+		"MfgDate": "2015/02/12",
+		"Access": ["Adapter"]
+	},
+	{
+		"ProductId": "6",
+		"Name": "DELL Server",
+		"Price": "562000",
+		"MfgDate": "2014/05/21",
+		"Access": []
+	},
+	{
+		"ProductId": "7",
+		"Name": "Wireless Headphone",
+		"Price": "2300",
+		"MfgDate": "2014/02/06",
+		"Access": []
+	},
+	{
+		"ProductId": "8",
+		"Name": "Wireless Mouse",
+		"Price": "1300",
+		"MfgDate": "2015/01/09",
+		"Access": []
+	},
+	{
+		"ProductId": "9",
+		"Name": "Wireless Headphone",
+		"Price": "2300",
+		"MfgDate": "2014/02/06",
+		"Access": []
+	},
+	{
+		"ProductId": "10",
+		"Name": "Digital Camera",
+		"Price": "25000",
+		"MfgDate": "2016/07/03",
+		"Access": ["Lens", "Bag"]
+	}
 
 ]
